@@ -1,2 +1,2 @@
 # faroukaregbe.github.io
-Welcome to my Data Science Portfolio
+Data Science Portfolio
